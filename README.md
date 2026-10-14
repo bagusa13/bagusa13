@@ -46,5 +46,5 @@ Network & Cybersecurity Enthusiast interested in infrastructure hardening, syste
 ---
 
 ### 🎯 Core Focus & Exploration
-* **Security & Infrastructure:** Network Hardening, Digital Forensics (DFIR), Cloud & System Architecture
-* **Tech Exploration:** AI-Assisted Code Optimization, Emerging Technologies, Blockchain Systems
+* **Security & Infrastructure:** Network Hardening, Digital Forensics (DFIR), Cloud & System Architecture.
+* **Tech Exploration:** AI-Assisted Code Optimization, Emerging Technologies, Blockchain Systems.
